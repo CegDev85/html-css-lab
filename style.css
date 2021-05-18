@@ -7,3 +7,7 @@ footer { background-color: dodgerblue;}
 .top-page-links {
     background-color: dodgerblue;
 }
+
+main > article {
+    text-align: center;
+}
